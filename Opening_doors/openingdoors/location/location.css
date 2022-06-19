@@ -1,0 +1,78 @@
+*{
+    padding: 0%;
+    margin: 0%;
+}
+
+header{
+    background-size: cover;
+    width:100%;
+    
+}
+/* form{
+    position: absolute;
+    width: 100%;
+    max-height: 100%;
+    z-index: -1000;
+    top: 0;
+    bottom: 0;
+} */
+
+h1{
+    
+    position:absolute;
+  top:  15%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  color: white;
+  font-family: Single Day;
+ 
+}
+
+h3{
+    
+    position:absolute;
+  top:  20%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  color: white;
+  font-family: Sansita Swashed;
+  
+}
+
+form{
+    
+    position:absolute;
+    top:  30%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    color:white;
+    font-family:Sansita Swashed ;
+}
+
+input{
+    background-color: rgba(255, 255, 255, 0.171);
+    color: white;
+    width: 12em;
+    height: 2em;
+    border-radius: 15px;
+}
+::placeholder{
+    color: white;
+   
+}
+
+
+
+
+
+
+
+
+
+
+/* h3{
+    position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+} */
